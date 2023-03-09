@@ -1,0 +1,311 @@
+* {
+    font-family: 'Roboto', sans-serif;
+}
+
+.nav-enlace{
+    display: inline-block;
+    font-weight: bold;
+    color: antiquewhite;
+    background-color: rgb(221, 118, 70);
+    padding: 10px 30px;
+}
+
+
+.nav-enlace:hover{
+background-color: rgb(65, 79, 202);
+}
+
+
+
+.inicio {
+    background-color: rgb(114, 5, 5);
+}
+
+h2 {
+    font-size: 35px;
+    padding: 30px;
+    margin: 20px;
+}
+
+.contenido-inicio{
+        justify-content: center; 
+}
+
+
+
+
+.barradenavegacion{
+    font-size: 18px;
+    justify-content: center;
+    font-weight: bold;
+    display: flex;
+    background: rgb(233, 79, 74);
+    font-family: Arial;
+    padding: 15px;
+    margin: 10px;
+    border-radius: 5px;
+
+}
+
+.curriculum{
+    display: flex;
+    justify-content: center;
+    font-weight: bold;
+    font-size: 28px;
+    color: rgb(245, 245, 255);
+}
+
+.foto{
+    display: flex;
+    justify-content: center;
+    padding: 5px;
+    margin: 5px;
+        
+}
+
+.Nombreyapellido{
+
+    display: flex;
+    justify-content: center;
+    font-weight: bold;
+    font-size: 25px;
+    color: rgb(224, 224, 247);
+}
+
+.Informacion{
+    display: flex;
+    justify-content: center;
+  
+}
+
+
+.columna1{
+    background-color: grey;
+    margin: 20px;
+    padding-left: 90px;
+    padding-right: 90px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.columna2{
+    background-color: grey;
+    margin:  20px;
+    padding-left: 60px;
+    padding-right: 60px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.columna3{
+    background-color: grey;
+    margin:  20px;
+    margin:  20px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+
+.datospersonales {
+    background-color: rgb(201, 46, 19);
+    }
+
+
+.datospersonales3{
+    display: flex;
+    justify-content: center;
+    color: aliceblue;
+    font-weight: bold;
+        
+}
+
+.datospersonales1{
+    font-size: 22px;
+    padding: 20px;
+    margin: 20px;
+    float: center;
+    column-count: 3;
+}
+
+
+
+.columna4{
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+    padding: 15px;
+    margin: 10px;
+    
+ 
+}
+
+.columna5{
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+    padding: 15px;
+    margin: 10px;
+   
+    
+}
+
+.columna6{
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+    padding: 15px;
+    margin: 10px;
+   
+}
+
+
+
+
+.datospersonales2{
+    font-size: 22px;
+    padding: 20px;
+    margin: 20px;
+    float: center;
+    column-count: 3;
+    
+}
+
+
+.columna7{
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+    padding: 15px;
+    margin: 10px;
+    
+ 
+}
+
+.columna8{
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+    padding: 15px;
+    margin: 10px;
+   
+    
+}
+
+.columna9{
+    font-size: 2px;
+    color: rgb(255, 255, 255);
+    padding: 15px;
+    margin: 10px;
+}
+
+
+
+
+.experiencia{
+    background-color: coral;
+}
+
+.experiencia1{
+    display: flex;
+    justify-content: center; 
+    font-weight: bold;
+   
+}
+
+.exp1{
+    justify-content: center; 
+    padding: 5px;
+    margin: 5px;
+    font-weight: bold;
+    text-align: justify;
+}
+
+.exp2{
+       justify-content: center;
+       padding: 5px;
+       margin: 5px; 
+       font-weight: bold;
+       text-align: justify;
+}
+
+.exp3{
+    
+    justify-content: center;
+    padding: 5px;
+    margin: 5px; 
+    font-weight: bold;
+    text-align: justify;
+}
+
+
+.habilidades{
+    background-color: rgb(228, 150, 121);
+}
+
+
+.habtotales{
+    column-count: 2;
+    font-size: 30px;
+    
+}
+
+
+.hab1{
+    display: flex;
+    justify-content: center; 
+    padding: 25px;
+    margin: 15;
+
+}
+
+.hab2{
+    display: flex;
+    justify-content: center; 
+    padding: 35px;
+    margin: 35;
+
+}
+
+.hab3{
+    display: flex;
+    justify-content: center;
+    padding: 35px;
+    margin: 35; 
+
+}
+
+
+.contacto{
+background-color: rgb(241, 186, 102);
+}
+
+
+
+
+.contac1{
+    display: flex;
+    justify-content: center;
+}
+
+.formulario{
+    width: 500px;
+    background: rgb(248, 178, 46);
+    font-family: Arial;
+    color: black;
+    padding: 40px;
+    margin: auto;
+    margin-top: 10px;
+    border-radius: 5px;
+    font-weight: bold;
+
+}
+
+.controls{
+    width: 100%;
+    padding: 10px;
+    background: rgb(183, 222, 247);
+    border-radius: 5px;
+    margin-bottom: 15px;
+    border: 1px solid;
+    font: arial;
+    font-size: 18px;
+    font-weight: bold;
+
+}
